@@ -1,0 +1,18 @@
+{
+  "image": "C:\\Users\\Asus\\OneDrive\\Desktop\\cretificate verification\\srhari01.jpeg",
+  "fields": {},
+  "best_match": {
+    "name": "Salmon Angelo S",
+    "roll_no": "1234567",
+    "university": "Sri Eshwar College of Engineering",
+    "course": "BE CSE"
+  },
+  "scores": {
+    "name": 0.0,
+    "roll_no": 0.0,
+    "university": 0.0,
+    "course": 0.0
+  },
+  "average_score": 0.0,
+  "passed": false
+}
